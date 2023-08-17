@@ -1,0 +1,13 @@
+.signup{
+    text-align: right;
+    float: right;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.login{
+    text-align: right;
+    float: right;
+    justify-content: space-between;
+    margin-left: 10px;
+}
